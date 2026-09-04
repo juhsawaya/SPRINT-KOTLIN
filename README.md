@@ -9,7 +9,7 @@
   - Maria Eduarda Oliveira - RM558970
   - Guilherme Garcia - RM558102
   - Andre Pilatis - RM5558897
-- **Repositorio GitHub:** PREENCHER_LINK_DO_REPOSITORIO
+- **Repositorio GitHub:** https://github.com/juhsawaya/SPRINT-KOTLIN
 
 ## Objetivo do aplicativo
 
