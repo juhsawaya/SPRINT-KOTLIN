@@ -142,5 +142,5 @@ Tambem e possivel compilar pelo terminal:
 - [x] Estado em memoria para incluir nova nutriz e simular acoes.
 - [x] README na raiz com objetivo, funcionalidades e execucao.
 - [x] Proposta alinhada ao pitch correto da LARA.
-- [ ] Preencher link do GitHub e versao real do Android Studio.
+- [ ] Preencher versao real do Android Studio usada pela equipe.
 - [ ] Capturar prints reais do app rodando e salvar em `docs/screenshots/`.
