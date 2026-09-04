@@ -85,7 +85,7 @@ Retorno visual apos ativar a jornada mockada.
 
 ![Confirmacao](docs/screenshots/confirmation.png)
 
-> Pendencia real: os arquivos de imagem ainda nao foram capturados nesta maquina. A pasta `docs/screenshots/` ja esta preparada para receber os prints finais. Use prints reais do app rodando no Android Studio, emulador ou dispositivo fisico.
+As imagens acima foram capturadas com o aplicativo rodando em emulador Android.
 
 ## Tecnologias utilizadas
 
@@ -120,7 +120,9 @@ Tambem e possivel compilar pelo terminal:
 ## Ambiente verificado
 
 - JDK usado nesta maquina: OpenJDK 25.0.2
-- Android Studio usado pela equipe: PREENCHER_VERSAO_DO_ANDROID_STUDIO_USADA_PELA_EQUIPE
+- Android Studio verificado nesta maquina: 2025.3
+- Build testado: `assembleDebug`
+- Emulador usado para os prints: Pixel_7
 
 ## Como explicar o codigo na apresentacao
 
@@ -142,5 +144,5 @@ Tambem e possivel compilar pelo terminal:
 - [x] Estado em memoria para incluir nova nutriz e simular acoes.
 - [x] README na raiz com objetivo, funcionalidades e execucao.
 - [x] Proposta alinhada ao pitch correto da LARA.
-- [ ] Preencher versao real do Android Studio usada pela equipe.
-- [ ] Capturar prints reais do app rodando e salvar em `docs/screenshots/`.
+- [x] Versao do Android Studio informada no README.
+- [x] Prints reais do app rodando salvos em `docs/screenshots/`.

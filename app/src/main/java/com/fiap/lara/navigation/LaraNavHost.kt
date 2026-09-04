@@ -1,5 +1,6 @@
 package com.fiap.lara.navigation
 
+import android.net.Uri
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.remember
@@ -75,7 +76,7 @@ fun LaraNavHost() {
             arguments = listOf(navArgument("name") { type = NavType.StringType })
         ) { entry ->
             ConfirmationScreen(
-                name = entry.arguments?.getString("name").orEmpty(),
+                name = Uri.decode(entry.arguments?.getString("name").orEmpty()),
                 onGoToList = {
                     navController.navigate(Routes.Alerts.route) {
                         popUpTo(Routes.Home.route)

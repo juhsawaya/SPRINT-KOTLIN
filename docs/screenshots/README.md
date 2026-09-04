@@ -1,8 +1,8 @@
 # Screenshots
 
-Coloque nesta pasta os prints reais do aplicativo executando no Android Studio, emulador ou dispositivo fisico.
+Esta pasta contem os prints reais do aplicativo executando em emulador Android.
 
-Arquivos esperados pelo `README.md`:
+Arquivos usados pelo `README.md`:
 
 - `home.png`
 - `journeys.png`
@@ -10,4 +10,4 @@ Arquivos esperados pelo `README.md`:
 - `register.png`
 - `confirmation.png`
 
-Nao use prints do Figma, slides ou prototipos como evidencia de funcionamento.
+Os prints representam o app Android implementado, nao telas de Figma, slides ou prototipos.
