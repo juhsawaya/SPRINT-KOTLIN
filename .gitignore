@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+*.zip
+LARA-Sprint3/
+RedeAlerta-Sprint3/
+LARA-TOGAF-Sprint-Entrega*/
+entrega-azure-devops*/
+lara-web*/
+docs/azure-devops-*
